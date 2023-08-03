@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.afe1b820.css",
-    "main.js": "/static/js/main.29436afc.js",
-    "static/js/787.a8f914c8.chunk.js": "/static/js/787.a8f914c8.chunk.js",
-    "static/media/jordan.png": "/static/media/jordan.64a3ed0053982b9d7bbf.png",
-    "static/media/stansmith.jpg": "/static/media/stansmith.9b0357ac703248ae3b3a.jpg",
-    "index.html": "/index.html",
-    "main.afe1b820.css.map": "/static/css/main.afe1b820.css.map",
-    "main.29436afc.js.map": "/static/js/main.29436afc.js.map",
-    "787.a8f914c8.chunk.js.map": "/static/js/787.a8f914c8.chunk.js.map"
+    "main.css": "/react-ex/static/css/main.afe1b820.css",
+    "main.js": "/react-ex/static/js/main.ab6255c0.js",
+    "static/js/787.a8f914c8.chunk.js": "/react-ex/static/js/787.a8f914c8.chunk.js",
+    "static/media/jordan.png": "/react-ex/static/media/jordan.64a3ed0053982b9d7bbf.png",
+    "static/media/stansmith.jpg": "/react-ex/static/media/stansmith.9b0357ac703248ae3b3a.jpg",
+    "index.html": "/react-ex/index.html",
+    "main.afe1b820.css.map": "/react-ex/static/css/main.afe1b820.css.map",
+    "main.ab6255c0.js.map": "/react-ex/static/js/main.ab6255c0.js.map",
+    "787.a8f914c8.chunk.js.map": "/react-ex/static/js/787.a8f914c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afe1b820.css",
-    "static/js/main.29436afc.js"
+    "static/js/main.ab6255c0.js"
   ]
 }
